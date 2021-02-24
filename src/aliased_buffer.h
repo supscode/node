@@ -13,6 +13,7 @@ namespace node {
 typedef size_t AliasedBufferIndex;
 
 /**
+ * Test github
  * Do not use this class directly when creating instances of it - use the
  * Aliased*Array defined at the end of this file instead.
  *
